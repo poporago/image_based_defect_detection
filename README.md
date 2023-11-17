@@ -1,1 +1,1 @@
-# project_image_defect_detection
+# image_based_defect_detection
