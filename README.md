@@ -15,7 +15,7 @@
 <img src="https://github.com/poporago/image_based_defect_detection/assets/131949171/7e21193a-7a9a-4765-a155-96a6d8ab4417" alt="Second Image" width="540" height="101">
 
 ## Details
-정상 이미지와 결함 이미지의 이진 분류 문제임으로 두가지 접근 방법을 사용하였습니다.<br>
+주어진 task는 정상 이미지와 결함 이미지의 `이진 분류` 문제로 두가지 접근 방법을 사용하였습니다.<br>
 <br>
 (1)Image Classification model <br>
 \- CNN기반 아키텍쳐인 efficientNet (train/efficientnet_15th.ipynb)
