@@ -25,7 +25,7 @@
 (2)Anomaly detection 방식의 접근 <br>
 \- fastlfow사용 (train/fastflow_anomalib.ipynb) <br> 
 
-최종적인 산출물은 effcientNetb5모델을 적용하였습니다.
+최종적인 산출물은 effcientNet_b5모델을 적용하였습니다.
 
 ## Results
 - Private LB Score
