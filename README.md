@@ -1,5 +1,5 @@
 # 이미지 기반 제품 결함 탐지
-- `이어드림스쿨 3기` 과정 중, 경진 대회 플랫폼 AI Connet에서 주최한 이미지 분류 문제에 참여했던 소스코드 입니다. 
+- `이어드림스쿨 3기` 과정 중, 경진 대회 플랫폼 AI Connect에서 주최한 이미지 분류 문제에 참여했던 소스코드 입니다. 
 - 대회 기간 : `2023.09.27` ~ `2023.10.06`
 ![image](https://github.com/poporago/image_based_defect_detection/assets/131949171/17b86afb-8dd0-401e-b369-f13bb11167db)
 
